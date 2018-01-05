@@ -1,2 +1,4 @@
-/cache/
-/config/development/
+/app/cache/annotations/
+/app/cache/db/
+/app/cache/metadata/
+/app/cache/volt/
